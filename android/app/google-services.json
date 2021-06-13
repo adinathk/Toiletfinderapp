@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650735466506",
+    "project_id": "toiletfinderapp-a6251",
+    "storage_bucket": "toiletfinderapp-a6251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650735466506:android:374c99674b05e5af68c7f3",
+        "android_client_info": {
+          "package_name": "com.example.toiletfinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650735466506-kqfb3vioe9a8695s92jhd8dvm90b4u8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMNzWUCcclt-bZ0ht4-0MIth5xwH-MlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650735466506-kqfb3vioe9a8695s92jhd8dvm90b4u8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
